@@ -1,0 +1,22 @@
+#sidebrand{
+    color: wheat;
+   width: 100%; 
+   height: 100%;
+   margin-top: 0;
+   padding-top:0;
+}
+.person_icon{ 
+    font-size: 30px;
+    background-color: green;
+    border: 1px solid white; 
+    border-radius: 2px;
+    padding: 5px;
+}
+.role{
+    font-size : 13px;
+}
+.active{
+    background-color: red;
+    border: 1px solid red;
+}
+ 
